@@ -1,0 +1,17 @@
+input
+2
+3
+output
+sum of 2 and 3 is 5
+
+input
+5
+4
+output
+sum of 5 and 4 is 9
+
+input
+10
+4
+output
+sum of 10 and 4 is 15
